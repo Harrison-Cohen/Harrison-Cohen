@@ -18,7 +18,7 @@
 ### 💼 Experience
 
 - **FRC Team 540 (Talon 540) — Programmer**
-  Wrote the software that drove our competition robot, including autonomous navigation, camera-based tracking, and match scouting analysis.
+  Wrote the software that drove our competition robot, including autonomous navigation, camera-based apriltag odometry, and match scouting data analysics.
 
 - **RITS AI Summer Camp (VCU) — Counselor, CS & Vibe Coding Track**
   Taught programming and AI-assisted ("vibe coding") concepts to camp students.
