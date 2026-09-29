@@ -23,6 +23,9 @@
 - **RITS AI Summer Camp (VCU) — Counselor, CS & Vibe Coding Track**
   Taught programming and AI-assisted ("vibe coding") concepts to camp students.
 
+- **VT CRO (Virginia Tech VEX U) - Design Team, Programmer**
+  Developing C++ (PROS) software for our VEXU Design Team, including a field-oriented X-drive, tracking-wheel odometry, and an AprilTag vision pipeline running on an Orange Pi coprocessor.
+
 ---
 
 ### 🧰 Tech Stack
