@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Incoming first-year at **Virginia Tech**, studying **CMDA** (Computational Modeling & Data Analytics) with a Cryptography & Cybersecurity option
+- 🎓 first-year at **Virginia Tech**, studying **CMDA** (Computational Modeling & Data Analytics) with a Cryptography & Cybersecurity option
 - 🤖 Former programmer on **FRC Team 540 (Talon 540)**, writing the software that controlled our competition robot
 - 📊 Into competitive programming and data analytics, from swerve drive code to match-prediction models
 - 🛠️ Always tinkering with a side project or two
